@@ -16,7 +16,7 @@ This project was created as part of **Git training**. It provides a space to lea
 
 | First Name | Age | City |
 | :--- | ---: | :---: |
-| Hammadou | 22 | Lille |
+| Madou | 22 | Lille |
 
 ## Useful Link
 
