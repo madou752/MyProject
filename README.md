@@ -24,6 +24,6 @@ Visit [my GitHub profile](https://github.com/madou752) to discover my projects.
 
 ## Image
 
-![cat](https://i.redd.it/elx0vyxdhgpd1.png)
+![cat](public/cat.png)
 
 **Author:** madou752
