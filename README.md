@@ -24,6 +24,6 @@ Visit [my GitHub profile](https://github.com/madou752) to discover my projects.
 
 ## Image
 
-![cat](https://imageresizer.com/de/meme-generator/bearbeiten/cute-cat)
+![cat](https://i.redd.it/elx0vyxdhgpd1.png)
 
 **Author:** madou752
